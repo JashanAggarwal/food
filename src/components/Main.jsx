@@ -8,7 +8,7 @@ import Other from "./Others"
 function Main() {
   return (
     <>
-      <div className="bg-hero h-screen bg-cover bg-no-repeat bg-center relative top-[-20px]">
+      <div className="bg-g7 h-screen bg-cover bg-no-repeat bg-center relative top-[-20px]">
      
         <div className="text-white w-full sm:w-2/3 md:w-1/2 lg:w-2/5 xl:w-2/5 h-full ml-4 sm:ml-20 flex flex-col xl:my-5 items-start text-left px-4 sm:px-0">
           <h1 className="text-xl sm:text-4xl md:text-5xl lg:text-4xl xl:text-6xl font-bold">
